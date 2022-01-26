@@ -1,0 +1,50 @@
+.hobby {
+  
+  display:inline-block;
+  width: 400px;
+  padding: 10px 10px 10px 10px;
+  height: 363px;
+  border: 3px solid #73AD21;
+}
+
+.skill {
+
+  display:inline-block;
+  width: 400px;
+  padding: 10px 10px 10px 10px;
+  height: 363px;
+  border: 3px solid #73AD21;
+  margin-left: 2%;
+}
+
+.se{
+  display:flex;
+  position: static;
+}
+
+.intro{
+  display: inline-block;
+  border: 3px solid #73AD21;
+  width: 100% ;
+  margin-bottom: 2%;
+}
+
+.git{
+  display:inline-block;
+  position: relative;
+  color: green;
+  width: 630px;
+  padding: 10px 10px 10px 10px;
+  height: 363px;
+  border: 3px solid #73AD21;
+  margin-left: 2%;
+  text-align:center;
+  font-size: 250%;
+}
+.txt{
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  
+}
